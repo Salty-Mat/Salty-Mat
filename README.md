@@ -1,4 +1,4 @@
-### Hi there 👋
+### how did you get here
 
 <!--
 **Salty-Mat/Salty-Mat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
